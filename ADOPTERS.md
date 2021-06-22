@@ -3,8 +3,6 @@
 If you're using Octant and want to add your organization to this list, 
 [follow these directions][1]!
 
-<a href="https://www.bitgo.com" border="0" target="_blank"><img alt="bitgo.com" src="site/static/img/adopters/BitGo.svg" height="50"></a>&nbsp; &nbsp; &nbsp;
-
 **COMPANY X** is using Octant for cool stuff
 ​
 ## Adding your organization to the list of Octant Adopters
